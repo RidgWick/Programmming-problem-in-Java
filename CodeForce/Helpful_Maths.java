@@ -1,7 +1,7 @@
 // # 339A. Helpful Maths
 // Author - Md Rifat 
-// Use it just for modify your algorithm 
-// do not use it for another purpouse.
+// Please comment if you have alternative best algorithm .
+
 
 
 
