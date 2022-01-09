@@ -1,3 +1,4 @@
+// # 339A. Helpful Maths
 // Author - Md Rifat 
 // Use it just for modify your algorithm 
 // do not use it for another purpouse.
@@ -7,7 +8,7 @@
 
 import java.util.*;
 
-public class Main {
+public class Helpful_Maths {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String string = sc.nextLine();
