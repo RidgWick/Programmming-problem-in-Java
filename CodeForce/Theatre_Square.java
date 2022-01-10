@@ -1,13 +1,17 @@
+// # 1A. Theatre_Square
+// Author - Md Rifat
+
+
 import java.util.*;
 
 
-public class Main
-{
+public class Theatre_Square{
+	
 	public static void main(String[] args) {
 	    
-		Scanner in = new Scanner(System.in);
+	Scanner into = new Scanner(System.in);
 		
-		String[] string = in.nextLine().split(" ");
+	String[] string = into.nextLine().split(" ");
 		
         long data1 = Long.parseLong(string[0]);
         long data2 = Long.parseLong(string[1]);
@@ -15,6 +19,6 @@ public class Main
 
         long value = ((data1 + data3 - 1) /data3) * ((data2 + data3 - 1) / data3);
 	    
-	    System.out.println(value);
+	System.out.println(value);
 	}
 }
