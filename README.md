@@ -8,4 +8,7 @@
 Just use all of my solution for only Algorithmic purpouse.
 My intension is to share my algorithm to all .
 
-**  Do not use any of this code directly without having any knowledge of the algorithm please.
+// **  Do not use any of this code directly without having any knowledge of the algorithm please.
+
+Contact details :
+  email : 0x0mmrhr.ridgwick@hackermail.com
