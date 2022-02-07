@@ -1,5 +1,6 @@
 // # 339A. Helpful Maths
 // Author - Md Rifat 
+// email : 0x0mmrhr.ridgwick@hackermail.com
 // Please comment if you have alternative best algorithm .
 
 
